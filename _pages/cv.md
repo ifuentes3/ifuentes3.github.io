@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MBA, MIT Sloan School of Management
+* Master's degree in Risk Management, Safety, Prevention, and Ergonomics, Universitat Politecnica de Catalunya
+* Degree in Industrial Engineering and Operations Research, Universitat Politecnica de Catalunya
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Executive Director, MIT Jameel Clinic
+  * Leads operational and strategic work for MIT's center for AI and healthcare.
+  * Supports interdisciplinary research across machine learning, biology, chemistry, and clinical sciences.
+  * Works with hospital, industry, academic, and policy partners to translate AI research into practice.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Director, MIT Jameel Clinic
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Chief Operating Officer, MIT Quest for Intelligence
+
+* Prior leadership roles in strategy, risk management, and change management across Generali Group, General Electric, and Santander.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI and health strategy
+* Clinical translation
+* Digital health transformation
+* Innovation and entrepreneurship
+* Risk management and governance
+* Research operations
+* Cross-sector partnership development
 
 Publications
 ======
@@ -61,4 +58,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
+* Advisor, World Economic Forum on Digital Healthcare Transformation
+* Co-chair and board member, BSS Finance and Compensation Committee
+* Member, DCRO Cyber Risk Governance Council

@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MIT Jameel Clinic"
+excerpt: "Leadership and strategy for MIT's center for AI and healthcare."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The MIT Jameel Clinic brings together machine learning, life sciences, clinical research, and health systems collaboration to advance AI in healthcare.
+
+Ignacio Fuentes Ribas serves as Executive Director, supporting the strategy, operations, partnerships, and translational pathways that help move research toward real-world impact.
+
+[Visit MIT Jameel Clinic](https://jclinic.mit.edu/)
