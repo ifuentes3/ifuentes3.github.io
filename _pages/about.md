@@ -33,15 +33,21 @@ Research and Professional Interests
 - Risk management, governance, and responsible technology adoption
 - Education and cross-sector collaboration
 
+Education Programs
+======
+
+For learners interested in joining one of the programs Ignacio helps convene or organize:
+
+- [Transforming Healthcare with AI](https://executive.mit.edu/transforming-healthcare-ai.html) - MIT Sloan Executive Education
+- [Artificial Intelligence in Health Care](https://executive.mit.edu/artificial-intelligence-in-health-care.html) - online executive education
+- [Artificial Intelligence in Pharma and Biotech](https://executive.mit.edu/course/artificial-intelligence-in-pharma-and-biotech/a054v00000qmr6hAAA.html) - online executive education
+- [Machine Learning for Big Data and Text Processing: Foundations](https://professional.mit.edu/course-catalog/machine-learning-big-data-and-text-processing-foundations) - MIT Professional Education
+- [Machine Learning for Big Data and Text Processing: Advanced](https://professional.mit.edu/course-catalog/machine-learning-big-data-and-text-processing-advanced) - MIT Professional Education
+
 Selected Links
 ======
 
 - [MIT Jameel Clinic profile](https://jclinic.mit.edu/team-member/ignacio-fuentes-ribas/)
 - [MIT Jameel Clinic team](https://jclinic.mit.edu/about-mit-jameel-clinic/team/)
-- [Transforming Healthcare with AI](https://executive.mit.edu/transforming-healthcare-ai.html)
-- [Artificial Intelligence in Health Care](https://executive.mit.edu/artificial-intelligence-in-health-care.html)
-- [Artificial Intelligence in Pharma and Biotech](https://executive.mit.edu/course/artificial-intelligence-in-pharma-and-biotech/a054v00000qmr6hAAA.html)
-- [Machine Learning for Big Data and Text Processing: Foundations](https://professional.mit.edu/course-catalog/machine-learning-big-data-and-text-processing-foundations)
-- [Machine Learning for Big Data and Text Processing: Advanced](https://professional.mit.edu/course-catalog/machine-learning-big-data-and-text-processing-advanced)
 - [Deciphering Undersegmented Ancient Scripts Using Phonetic Prior](https://doi.org/10.1162/tacl_a_00354)
 - [LinkedIn](https://www.linkedin.com/in/ignacio-fuentes-ribas/)

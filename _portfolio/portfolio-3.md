@@ -10,6 +10,8 @@ This includes programming with MIT Sloan Executive Education, such as the Transf
 
 Ignacio also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
+Program information and enrollment pages:
+
 - [Transforming Healthcare with AI](https://executive.mit.edu/transforming-healthcare-ai.html)
 - [Artificial Intelligence in Health Care](https://executive.mit.edu/artificial-intelligence-in-health-care.html)
 - [Artificial Intelligence in Pharma and Biotech](https://executive.mit.edu/course/artificial-intelligence-in-pharma-and-biotech/a054v00000qmr6hAAA.html)
