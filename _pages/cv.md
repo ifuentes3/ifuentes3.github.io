@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* MBA, MIT Sloan School of Management
+* Master's Degree MBA, MIT Sloan School of Management
 * Master's degree in Risk Management, Safety, Prevention, and Ergonomics, Universitat Politecnica de Catalunya
-* Degree in Industrial Engineering and Operations Research, Universitat Politecnica de Catalunya
+* Master's degree in Industrial Engineering and Operations Research, Universitat Politecnica de Catalunya
 
 Work experience
 ======
