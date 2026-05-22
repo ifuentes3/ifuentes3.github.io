@@ -67,7 +67,7 @@ Teaching
 Service and leadership
 ======
 * Convener and organizer, Transforming Healthcare with AI programming with MIT Sloan Executive Education
-* Convener and organizer, MIT Professional Education machine learning programs with Regina Barzilay, Tommi Jaakkola, and colleagues
+* Convener and organizer, MIT Professional Education June machine learning sequence, including Foundations earlier in the week and Advanced later in the week, with Regina Barzilay, Tommi Jaakkola, and colleagues
 * Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
 * Advisor, World Economic Forum on Digital Healthcare Transformation
 * Co-chair and board member, BSS Finance and Compensation Committee
