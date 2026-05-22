@@ -40,8 +40,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% assign featured_publications = site.publications | where: "featured", true %}
+  {% for post in featured_publications reversed %}
     {% include archive-single-cv.html %}
+  {% endfor %}
+  {% for post in site.publications reversed %}
+    {% unless post.featured %}
+      {% include archive-single-cv.html %}
+    {% endunless %}
   {% endfor %}</ul>
   
 Talks

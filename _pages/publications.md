@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% assign featured_publications = site.publications | where: "featured", true %}
+{% for post in featured_publications reversed %}
   {% include archive-single.html %}
+{% endfor %}
+
+{% for post in site.publications reversed %}
+  {% unless post.featured %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
