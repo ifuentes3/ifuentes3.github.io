@@ -17,8 +17,10 @@ author_profile: true
 {% endfor %}
 
 {% for post in site.publications reversed %}
-  {% unless post.featured or post.list_last %}
-    {% include archive-single.html %}
+  {% unless post.featured %}
+    {% unless post.list_last %}
+      {% include archive-single.html %}
+    {% endunless %}
   {% endunless %}
 {% endfor %}
 
