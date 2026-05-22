@@ -11,7 +11,7 @@ Ignacio Fuentes Ribas is Executive Director of the MIT Abdul Latif Jameel Clinic
 
 At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners, and policy leaders to advance AI systems that can move from promising models into real-world health settings. His work spans clinical AI, AI-driven drug discovery, hospital collaboration, digital health strategy, and the operational structures needed to translate research into patient impact.
 
-Ignacio also convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June sequence in machine learning with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations earlier in the week and Advanced later in the week.
+Ignacio also convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June sequence in machine learning with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations earlier in the week and Advanced later in the week. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
 His broader research collaborations and advisory contributions include work acknowledged in the TACL paper "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," led by Jiaming Luo, Frederik Hartmann, Enrico Santus, Regina Barzilay, and Yuan Cao. The work studied computational decipherment of undersegmented ancient scripts, including Iberian, and was recognized with the UNESCO/Netexplo Award in 2021.
 
@@ -24,6 +24,7 @@ Research and Professional Interests
 - Clinical translation and deployment of AI systems
 - Digital health transformation
 - Executive and professional education in AI and health
+- Youth STEM education and mentorship
 - Computational linguistics and AI for cultural heritage
 - Innovation strategy and entrepreneurship
 - Risk management, governance, and responsible technology adoption

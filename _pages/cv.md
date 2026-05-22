@@ -35,6 +35,7 @@ Skills
 * Clinical translation
 * Digital health transformation
 * Executive and professional education
+* Youth STEM mentorship
 * Innovation and entrepreneurship
 * Risk management and governance
 * Research operations
@@ -76,6 +77,8 @@ Service and leadership
 * Convener and organizer, Transforming Healthcare with AI programming with MIT Sloan Executive Education
 * Convener and organizer, MIT Sloan Executive Education online programs delivered with GetSmarter, including Artificial Intelligence in Health Care and Artificial Intelligence in Pharma and Biotech
 * Convener and organizer, MIT Professional Education June machine learning sequence, including Foundations earlier in the week and Advanced later in the week, with Regina Barzilay, Tommi Jaakkola, and colleagues
+* Organizer, high school summer programming for students exploring AI, health, research, and entrepreneurship
+* Mentor to young and curious minds pursuing AI, health, and research projects
 * Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
 * Advisor, World Economic Forum on Digital Healthcare Transformation
 * Co-chair and board member, BSS Finance and Compensation Committee

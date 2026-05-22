@@ -8,6 +8,8 @@ Ignacio convenes and organizes education programs that translate MIT research in
 
 This includes programming with MIT Sloan Executive Education, such as the Transforming Healthcare with AI series, and online programs delivered with GetSmarter in health care and pharma/biotech. It also includes the recurring MIT Professional Education June machine learning sequence with faculty including Regina Barzilay and Tommi Jaakkola. The sequence includes Foundations earlier in the week and Advanced later in the week.
 
+Ignacio also organizes high school summer programming and mentors young and curious minds exploring AI, health, research, and entrepreneurship.
+
 - [Transforming Healthcare with AI](https://executive.mit.edu/transforming-healthcare-ai.html)
 - [Artificial Intelligence in Health Care](https://executive.mit.edu/artificial-intelligence-in-health-care.html)
 - [Artificial Intelligence in Pharma and Biotech](https://executive.mit.edu/course/artificial-intelligence-in-pharma-and-biotech/a054v00000qmr6hAAA.html)
