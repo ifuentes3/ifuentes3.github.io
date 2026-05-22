@@ -47,9 +47,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
   {% for post in site.publications reversed %}
-    {% unless post.featured %}
+    {% unless post.featured or post.list_last %}
       {% include archive-single-cv.html %}
     {% endunless %}
+  {% endfor %}
+  {% assign last_publications = site.publications | where: "list_last", true %}
+  {% for post in last_publications reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
