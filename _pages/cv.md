@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Master's Degree MBA, MIT Sloan School of Management
+  * Sloan Fellows Program in Innovation and Global Leadership
+* Executive degree, IMD Lausanne
 * Master's degree in Risk Management, Safety, Prevention, and Ergonomics, Universitat Politecnica de Catalunya
 * Master's degree in Industrial Engineering and Operations Research, Universitat Politecnica de Catalunya
 
@@ -40,6 +42,13 @@ Skills
 * Risk management and governance
 * Research operations
 * Cross-sector partnership development
+
+Languages
+======
+* Spanish: native or bilingual proficiency
+* French: native or bilingual proficiency
+* English: full professional proficiency
+* Italian: professional working proficiency
 
 Publications
 ======
@@ -83,5 +92,6 @@ Service and leadership
 * Founding organizer, MoML @ MIT molecular machine learning conference
 * Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
 * Advisor, World Economic Forum on Digital Healthcare Transformation
-* Co-chair and board member, BSS Finance and Compensation Committee
-* Member, DCRO Cyber Risk Governance Council
+* Co-chair and board member, BSS Finance and Compensation Committee, MIT Club of Boston
+* Volunteer, MIT Alumni Association
+* Member, DCRO Cyber Risk Governance Council, The Directors and Chief Risk Officers Group
