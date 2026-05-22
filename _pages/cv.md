@@ -72,6 +72,7 @@ Teaching
   
 Service and leadership
 ======
+* Acknowledged contributor, "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," TACL 2021; the work on computational decipherment of ancient scripts, including Iberian, was recognized with the UNESCO/Netexplo Award in 2021
 * Convener and organizer, Transforming Healthcare with AI programming with MIT Sloan Executive Education
 * Convener and organizer, MIT Sloan Executive Education online programs delivered with GetSmarter, including Artificial Intelligence in Health Care and Artificial Intelligence in Pharma and Biotech
 * Convener and organizer, MIT Professional Education June machine learning sequence, including Foundations earlier in the week and Advanced later in the week, with Regina Barzilay, Tommi Jaakkola, and colleagues
