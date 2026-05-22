@@ -13,6 +13,8 @@ At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners,
 
 Ignacio also convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June sequence in machine learning with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations earlier in the week and Advanced later in the week. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
+He has also organized flagship Jameel Clinic conferences from their inception, including the yearly MIT-MGB AI Cures series and MoML @ MIT, convening researchers, clinicians, and technical leaders across clinical AI, drug discovery, and molecular machine learning.
+
 His broader research collaborations and advisory contributions include work acknowledged in the TACL paper "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," led by Jiaming Luo, Frederik Hartmann, Enrico Santus, Regina Barzilay, and Yuan Cao. The work studied computational decipherment of undersegmented ancient scripts, including Iberian, and was recognized with the UNESCO/Netexplo Award in 2021.
 
 Before serving as Executive Director, Ignacio was a director at Jameel Clinic and previously Chief Operating Officer of MIT's Quest for Intelligence. His background includes strategy, risk management, innovation, and organizational transformation across technology, finance, insurance, and healthcare.
@@ -25,6 +27,7 @@ Research and Professional Interests
 - Digital health transformation
 - Executive and professional education in AI and health
 - Youth STEM education and mentorship
+- Conference convening across clinical AI and molecular machine learning
 - Computational linguistics and AI for cultural heritage
 - Innovation strategy and entrepreneurship
 - Risk management, governance, and responsible technology adoption

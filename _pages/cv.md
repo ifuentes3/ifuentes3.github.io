@@ -79,6 +79,8 @@ Service and leadership
 * Convener and organizer, MIT Professional Education June machine learning sequence, including Foundations earlier in the week and Advanced later in the week, with Regina Barzilay, Tommi Jaakkola, and colleagues
 * Organizer, high school summer programming for students exploring AI, health, research, and entrepreneurship
 * Mentor to young and curious minds pursuing AI, health, and research projects
+* Founding organizer, yearly MIT-MGB AI Cures series
+* Founding organizer, MoML @ MIT molecular machine learning conference
 * Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
 * Advisor, World Economic Forum on Digital Healthcare Transformation
 * Co-chair and board member, BSS Finance and Compensation Committee
