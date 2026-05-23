@@ -50,4 +50,4 @@ Selected Links
 - [MIT Jameel Clinic profile](https://jclinic.mit.edu/team-member/ignacio-fuentes-ribas/)
 - [MIT Jameel Clinic team](https://jclinic.mit.edu/about-mit-jameel-clinic/team/)
 - [Deciphering Undersegmented Ancient Scripts Using Phonetic Prior](https://doi.org/10.1162/tacl_a_00354)
-- [LinkedIn](https://www.linkedin.com/in/ignacio-fuentes-ribas/)
+- [LinkedIn](https://www.linkedin.com/in/ignacio_fuentes_ribas/)
