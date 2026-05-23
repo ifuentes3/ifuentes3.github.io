@@ -22,7 +22,9 @@ Work experience
 * Executive Director, MIT Jameel Clinic
   * Leads operational and strategic work for MIT's center for AI and healthcare.
   * Supports interdisciplinary research across machine learning, biology, chemistry, and clinical sciences.
-  * Works with hospital, industry, academic, and policy partners to translate AI research into practice.
+  * Works with hospital, government, industry, academic, philanthropic, investor, and policy partners to translate AI research into practice.
+  * Supports government partnership work, including engagement with ARPA-H and the Department of the Interior on the Aurora project.
+  * Supports fundraising, donor and foundation engagement, and external partnerships with industry, venture capital groups, and investors.
   * Convenes and organizes education programs in AI and health with MIT Sloan Executive Education and MIT Professional Education.
 
 * Director, MIT Jameel Clinic
@@ -36,6 +38,9 @@ Skills
 * AI and health strategy
 * Clinical translation
 * Digital health transformation
+* Government partnerships
+* Fundraising and philanthropic partnerships
+* Industry, venture capital, and investor engagement
 * Executive and professional education
 * Youth STEM mentorship
 * Innovation and entrepreneurship
@@ -90,6 +95,8 @@ Service and leadership
 * Mentor to young and curious minds pursuing AI, health, and research projects
 * Founding organizer, yearly MIT-MGB AI Cures series
 * Founding organizer, MoML @ MIT molecular machine learning conference
+* Government partnership work with ARPA-H and the Department of the Interior on the Aurora project
+* Partnerships and fundraising work with foundations, donors, philanthropists, industry partners, venture capital groups, and investors
 * Member, World Economic Forum Digital Health Transformation Initiative, AI Strategic Advisory Group
 * Advisor, World Economic Forum on Digital Healthcare Transformation
 * Co-chair and board member, BSS Finance and Compensation Committee, MIT Club of Boston

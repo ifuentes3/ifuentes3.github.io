@@ -9,7 +9,9 @@ redirect_from:
 
 Ignacio Fuentes Ribas is Executive Director of the MIT Abdul Latif Jameel Clinic for Machine Learning in Health, where he helps lead work at the intersection of artificial intelligence, healthcare, clinical translation, and interdisciplinary research.
 
-At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners, and policy leaders to advance AI systems that can move from promising models into real-world health settings. His work spans clinical AI, AI-driven drug discovery, hospital collaboration, digital health strategy, and the operational structures needed to translate research into patient impact.
+At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners, government agencies, foundations, donors, philanthropists, venture capital groups, investors, and policy leaders to advance AI systems that can move from promising models into real-world health settings. His work spans clinical AI, AI-driven drug discovery, hospital collaboration, government partnerships, industry engagement, fundraising, digital health strategy, and the operational structures needed to translate research into patient impact.
+
+Recent external partnership work includes engagement with ARPA-H and the Department of the Interior on the Aurora project, reflecting his role at the interface of research, government, and deployment-oriented innovation.
 
 Ignacio also convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June machine learning sequence with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations and Advanced. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
@@ -19,12 +21,15 @@ His broader research collaborations and advisory contributions include work ackn
 
 Before serving as Executive Director, Ignacio was a director at Jameel Clinic and previously Chief Operating Officer of MIT's Quest for Intelligence. His background includes strategy, risk management, innovation, and organizational transformation across technology, finance, insurance, and healthcare.
 
-Research and Professional Interests
+Professional Focus
 ======
 
 - AI and machine learning in health
 - Clinical translation and deployment of AI systems
 - Digital health transformation
+- Government partnerships and deployment-oriented innovation
+- Industry partnerships, fundraising, and philanthropic engagement
+- Venture, investor, and commercialization pathways for health AI
 - Executive and professional education in AI and health
 - Youth STEM education and mentorship
 - Conference convening across clinical AI and molecular machine learning
