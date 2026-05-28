@@ -17,7 +17,7 @@ Recent external partnership work includes engagement with ARPA-H and the Departm
 
 Ignacio is also an educator who began teaching as a teaching assistant at 18. He convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June machine learning sequence with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations and Advanced. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
-He has also organized flagship Jameel Clinic conferences from their inception, including the yearly MIT-MGB AI Cures series and MoML @ MIT, convening researchers, clinicians, and technical leaders across clinical AI, drug discovery, and molecular machine learning.
+He has also organized inaugural and recurring Jameel Clinic conference programs, including the yearly MIT-MGB AI Cures series and MoML @ MIT, convening researchers, clinicians, and technical leaders across clinical AI, drug discovery, and molecular machine learning.
 
 His broader research collaborations and advisory contributions include work acknowledged in the TACL paper "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," led by Jiaming Luo, Frederik Hartmann, Enrico Santus, Regina Barzilay, and Yuan Cao. The work studied computational decipherment of undersegmented ancient scripts, including Iberian, and was recognized with the UNESCO/Netexplo Award in 2021.
 

@@ -1,10 +1,10 @@
 ---
 title: "Flagship AI Conferences"
-excerpt: "Organizer from inception of recurring Jameel Clinic conference programs, including MIT-MGB AI Cures and MoML @ MIT."
+excerpt: "Organizer of inaugural and recurring Jameel Clinic conference programs, including MIT-MGB AI Cures and MoML @ MIT."
 collection: portfolio
 ---
 
-Ignacio has organized flagship Jameel Clinic conference programs from their inception, including the yearly MIT-MGB AI Cures series and MoML @ MIT.
+Ignacio has organized inaugural and recurring Jameel Clinic conference programs, including the yearly MIT-MGB AI Cures series and MoML @ MIT.
 
 These programs convene researchers, clinicians, students, industry leaders, and technical experts across clinical AI, drug discovery, and molecular machine learning.
 
