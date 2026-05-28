@@ -10,4 +10,4 @@ This includes engaging government agencies, foundations, donors, philanthropists
 
 Recent government-facing work includes engagement with ARPA-H and the Department of the Interior on the Aurora project.
 
-The focus is on aligning scientific opportunity with institutional strategy, philanthropic support, partnership design, and pathways for responsible translation.
+The focus is on aligning scientific opportunity with institutional strategy, philanthropic support, partnership design, and pathways for responsible translation. This work reflects a broader interest in using finance, technology, and large-scale partnerships to democratize access and support public-service goals.

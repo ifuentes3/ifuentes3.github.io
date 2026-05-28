@@ -26,6 +26,7 @@ Work experience
   * Supports government partnership work, including engagement with ARPA-H and the Department of the Interior on the Aurora project.
   * Supports fundraising, donor and foundation engagement, and external partnerships with industry, venture capital groups, and investors.
   * Convenes and organizes education programs in AI and health with MIT Sloan Executive Education and MIT Professional Education.
+  * Advances public-service-oriented work using technology, finance, education, and institutional partnerships to broaden access and impact.
 
 * Director, MIT Jameel Clinic
 
@@ -41,6 +42,9 @@ Skills
 * Government partnerships
 * Fundraising and philanthropic partnerships
 * Industry, venture capital, and investor engagement
+* Public service and mission-driven institution building
+* Finance and technology for democratizing access
+* Community-centered leadership
 * Executive and professional education
 * Youth STEM mentorship
 * Innovation and entrepreneurship
@@ -87,6 +91,7 @@ Teaching
   
 Service and leadership
 ======
+* Educator with early teaching experience beginning as a teaching assistant at 18
 * Acknowledged contributor, "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," TACL 2021; the work on computational decipherment of ancient scripts, including Iberian, was recognized with the UNESCO/Netexplo Award in 2021
 * Convener and organizer, Transforming Healthcare with AI programming with MIT Sloan Executive Education
 * Convener and organizer, MIT Sloan Executive Education online programs delivered with GetSmarter, including Artificial Intelligence in Health Care and Artificial Intelligence in Pharma and Biotech

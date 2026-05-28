@@ -11,9 +11,11 @@ Ignacio Fuentes Ribas is Executive Director of the MIT Abdul Latif Jameel Clinic
 
 At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners, government agencies, foundations, donors, philanthropists, venture capital groups, investors, and policy leaders to advance AI systems that can move from promising models into real-world health settings. His work spans clinical AI, AI-driven drug discovery, hospital collaboration, government partnerships, industry engagement, fundraising, digital health strategy, and the operational structures needed to translate research into patient impact.
 
+Across this work, he is motivated by public service, education, and the use of finance and technology to broaden access to opportunity. His approach emphasizes community, people, and large-scale institutional efforts that can contribute to the betterment of humanity.
+
 Recent external partnership work includes engagement with ARPA-H and the Department of the Interior on the Aurora project, reflecting his role at the interface of research, government, and deployment-oriented innovation.
 
-Ignacio also convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June machine learning sequence with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations and Advanced. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
+Ignacio is also an educator who began teaching as a teaching assistant at 18. He convenes and organizes education programs that bring MIT research into executive and professional learning settings. These include health AI programming with MIT Sloan Executive Education, including the Transforming Healthcare with AI series, online executive education programs delivered with GetSmarter in health care and pharma/biotech, and the recurring MIT Professional Education June machine learning sequence with faculty such as Regina Barzilay and Tommi Jaakkola, including Foundations and Advanced. He also organizes high school summer programming and mentors young and curious minds exploring AI, health, and research.
 
 He has also organized flagship Jameel Clinic conferences from their inception, including the yearly MIT-MGB AI Cures series and MoML @ MIT, convening researchers, clinicians, and technical leaders across clinical AI, drug discovery, and molecular machine learning.
 
@@ -30,6 +32,9 @@ Professional Focus
 - Government partnerships and deployment-oriented innovation
 - Industry partnerships, fundraising, and philanthropic engagement
 - Venture, investor, and commercialization pathways for health AI
+- Public service and technology for the betterment of humanity
+- Finance and technology as tools to broaden access and opportunity
+- Community-centered leadership and institution building
 - Executive and professional education in AI and health
 - Youth STEM education and mentorship
 - Conference convening across clinical AI and molecular machine learning
