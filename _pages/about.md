@@ -21,7 +21,7 @@ He has also organized inaugural and recurring Jameel Clinic conference programs,
 
 His broader research collaborations and advisory contributions include work acknowledged in the TACL paper "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," led by Jiaming Luo, Frederik Hartmann, Enrico Santus, Regina Barzilay, and Yuan Cao. The work studied computational decipherment of undersegmented ancient scripts, including Iberian, and was recognized with the UNESCO/Netexplo Award in 2021.
 
-Before serving as Executive Director, Ignacio was a director at Jameel Clinic and previously Chief Operating Officer of MIT's Quest for Intelligence. His background includes strategy, risk management, innovation, and organizational transformation across technology, finance, insurance, and healthcare.
+Before serving as Executive Director, Ignacio was a director at Jameel Clinic and previously Chief Operating Officer of MIT's Quest for Intelligence. His background includes strategy, risk management, innovation, and organizational transformation across technology, finance, insurance, and healthcare, with prior leadership roles at Generali Group, General Electric, and Santander.
 
 Professional Focus
 ======
