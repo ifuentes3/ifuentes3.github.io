@@ -1,6 +1,6 @@
 ---
 title: "Flagship AI Conferences"
-excerpt: "Founding organization of recurring Jameel Clinic conference programs, including MIT-MGB AI Cures and MoML @ MIT."
+excerpt: "Organizer from inception of recurring Jameel Clinic conference programs, including MIT-MGB AI Cures and MoML @ MIT."
 collection: portfolio
 ---
 

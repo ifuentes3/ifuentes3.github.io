@@ -1,6 +1,6 @@
 ---
 title: "Partnerships, Fundraising, and Capital Networks"
-excerpt: "Building the external relationships that help AI and health research move from lab insight to real-world translation."
+excerpt: "Mobilizing partnerships, philanthropy, and capital to translate AI and health research into real-world impact."
 collection: portfolio
 ---
 

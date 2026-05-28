@@ -1,6 +1,6 @@
 ---
 title: "AI and Health Education Programs"
-excerpt: "Convening executive and professional education programs that connect MIT research with leaders, clinicians, and technical professionals."
+excerpt: "Building applied AI learning programs for executives, clinicians, policy leaders, and technical professionals."
 collection: portfolio
 ---
 

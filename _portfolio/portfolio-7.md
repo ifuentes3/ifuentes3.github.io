@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Regulation for AI Diagnostics"
-excerpt: "Jameel Clinic-affiliated commentary on regulatory approaches for AI-driven diagnostics and patient benefit."
+excerpt: "Commentary on adaptive regulatory approaches for AI-driven diagnostics and patient benefit."
 collection: portfolio
 ---
 
