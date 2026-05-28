@@ -91,6 +91,7 @@ Teaching
   
 Service and leadership
 ======
+* More than 10 years of public service with the Red Cross
 * Educator with early teaching experience beginning as a teaching assistant at 18
 * Acknowledged contributor, "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior," TACL 2021; the work on computational decipherment of ancient scripts, including Iberian, was recognized with the UNESCO/Netexplo Award in 2021
 * Convener and organizer, Transforming Healthcare with AI programming with MIT Sloan Executive Education

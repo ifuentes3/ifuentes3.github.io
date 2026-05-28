@@ -11,7 +11,7 @@ Ignacio Fuentes Ribas is Executive Director of the MIT Abdul Latif Jameel Clinic
 
 At Jameel Clinic, Ignacio works with researchers, clinicians, industry partners, government agencies, foundations, donors, philanthropists, venture capital groups, investors, and policy leaders to advance AI systems that can move from promising models into real-world health settings. His work spans clinical AI, AI-driven drug discovery, hospital collaboration, government partnerships, industry engagement, fundraising, digital health strategy, and the operational structures needed to translate research into patient impact.
 
-Across this work, he is motivated by public service, education, and the use of finance and technology to broaden access to opportunity. His approach emphasizes community, people, and large-scale institutional efforts that can contribute to the betterment of humanity.
+Across this work, he is motivated by public service, education, and the use of finance and technology to broaden access to opportunity. His approach emphasizes community, people, and large-scale institutional efforts that can contribute to the betterment of humanity, grounded in more than 10 years of service with the Red Cross.
 
 Recent external partnership work includes engagement with ARPA-H and the Department of the Interior on the Aurora project, reflecting his role at the interface of research, government, and deployment-oriented innovation.
 
