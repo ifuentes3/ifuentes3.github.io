@@ -46,7 +46,7 @@ Professional Focus
 Education Programs
 ======
 
-For learners interested in joining one of the programs Ignacio helps convene or organize:
+For learners interested in joining one of the programs Ignacio helps organize:
 
 - [Transforming Healthcare with AI](https://executive.mit.edu/transforming-healthcare-ai.html) - MIT Sloan Executive Education
 - [Artificial Intelligence in Health Care](https://executive.mit.edu/artificial-intelligence-in-health-care.html) - online executive education
